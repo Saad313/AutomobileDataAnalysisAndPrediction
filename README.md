@@ -1,5 +1,14 @@
 # Automobile Data Analysis And Prediction
 
+## Problem Defination and Objective
+The goal is to develop a predictive model that accurately estimates the price of a car based on its various features, such as engine type, number of doors, fuel efficiency, and more. This model will help both buyers and sellers make informed decisions in the used car market.
+Objective includes, 
+- Data Collection and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Model Development and Training
+- Model Selection and Evaluation
+
+
 ## Description
 This project demonstrates a machine learning workflow from data preprocessing to model evaluation. It includes exploratory data analysis, feature engineering, training multiple models, and evaluating their performance.
 
@@ -56,6 +65,4 @@ https://colab.research.google.com/drive/1AXV9TIWDiokA61iCKT8rC3laM9P4jLwa?usp=sh
 - Incorporating additional models for comparison.
 - Automating hyperparameter tuning for better performance.
 
-## Acknowledgments
-Special thanks to the contributors and the open-source libraries that made this project possible.
 
